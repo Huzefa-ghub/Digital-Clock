@@ -1,3 +1,11 @@
 hello
+<<<<<<< HEAD
 This is
 created by master branch
+=======
+dsds
+gggdgd
+asdads
+huh
+alooooo
+>>>>>>> branch_wfh
